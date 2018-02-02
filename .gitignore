@@ -3,7 +3,6 @@ build/
 .idea/
 *.apk
 .gradle/
-*.properties
 apk/
 androidTest/
 test/
